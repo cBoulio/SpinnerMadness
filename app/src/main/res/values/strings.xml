@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerMadness</string>
+    <string name="split_bill">Split bill</string>
+
+    <string-array name="splitArray">
+        <item>hey</item>
+        <item>hello</item>
+        <item>George</item>
+        <item>frank</item>
+    </string-array>
+</resources>
